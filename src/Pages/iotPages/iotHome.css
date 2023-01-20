@@ -1,0 +1,19 @@
+
+
+.iotHome{
+  display: flex;
+}
+/* .iotHome{
+  background-color: aqua;
+  border: 2px solid brown;
+  width: 100%;
+  height: auto;
+  gap: 10px;
+} */
+.iotHome-1{
+  background-color: rgb(68, 90, 90);
+  border: 2px solid brown;
+  width: 100%;
+  height: 80vh;
+  gap: 10px;
+}
